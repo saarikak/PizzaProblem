@@ -1,0 +1,23 @@
+#app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  margin-left: 80px;
+}
+
+body {
+  font: arial, serif;
+}
+
+table, thead, tbody, th, tr, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+td {
+  text-align: center;
+}
